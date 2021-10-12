@@ -1,0 +1,1 @@
+## An example application of using [ActiveJ Dependency Injection](https://activej.io/inject) with Kotlin
